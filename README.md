@@ -8,7 +8,9 @@ CarPlay Theme for AutoKit U2W Dongle
 ********************************************************************************************************
 
 This is software is provided without any warranty. 
+
 -If you choose to modify your device from a factory state you are doing so at your own risk. 
+
 -You could potentionally brick your device, if you don't know what you are doing.  
 
 *** If you proceed, you are proceeding at your own risk knowing that you could damage your device ***
