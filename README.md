@@ -36,10 +36,11 @@ will not be able to get access to the file system.
  Important Notes
 ------------------
 
--This theme is fully compatible with 800x480 and 1920x720 displays. If you are on another resolution you will still see the updated colors/images but elements will not be moved. 
+-This theme is fully compatible with 800x480, 1920x720 and 1280x720 displays. If you are on another resolution you will still see the updated colors/images but elements will not be moved. 
+
 This means some things may not look correct. 
 
--Full theme support is provided for 800x480 and 1920x720 resolutions.
+-Full theme support is provided for 800x480, 1920x720 and 1280x820 resolutions.
 
 -If you upgrade or change firmware the ui.tar.gz will be reverted to the stock file and you will need to install it again. 
 
