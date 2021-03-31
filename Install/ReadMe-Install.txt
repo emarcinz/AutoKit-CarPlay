@@ -21,3 +21,9 @@ The Original Stock Theme ui.tar.gz will be copied to the USB stick after success
 This is needed if you want to uninstall and revert all changes.
 
 To revert changes, see instructions in ReadMe-Uninstall.txt
+
+
+***** UPDATE *****
+- Minor Update March 30th _
+- Added 'Back Button' on "Connecting..." screen for 1920/1280x720 resolution
+- No changes to 800x480 - This version uses a 'Cancel' button.
